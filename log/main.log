@@ -1,0 +1,2 @@
+2023-12-12 14:15:34,980 - INFO - pytest_demo - Connecting to host=localhost, port=3306, database=test
+2023-12-12 14:15:35,077 - ERROR - pytest_demo - Failed to connect to db: (1045, "Access denied for user 'test'@'jgi-interactive10.jgi.lbl.gov' (using password: YES)")
